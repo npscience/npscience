@@ -1,6 +1,6 @@
 ### Hi, welcome to my GitHub 👋
 
-I'm currently switching into data science after 10 years' experience in several types of research and analysis. I recently completed an intensive bootcamp in professional data analysis (CodeClan, Scotland).
+I'm currently switching into data science after 10 years' experience in several types of research and analysis. I recently completed an intensive bootcamp in professional data analysis (CodeClan, Scotland) and started work as a Data Scientist with NHS Scotland in November 2023. I've been coding regularly in R, SQL and using Microsoft data tools (PowerBI: PowerQuery and DAX; AzureDevOps; VS Code) ever since.
 
 My "why" is to use data to inform and improve solutions for real-world problems, especially in the domains of environmental sustainability, nutrition and health, and internet communication technologies. I love spotting patterns, helping people to connect and share knowledge, and designing functional *and* visually appealing products.
 
